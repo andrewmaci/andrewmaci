@@ -18,7 +18,7 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
-![Typescript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=typescript)
+![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 
